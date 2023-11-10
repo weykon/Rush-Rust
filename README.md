@@ -1,7 +1,10 @@
-# Rush-Rust
+
+# Rush-Rust-GPT
 This repository is used to collect issues and feedback on Rush Rust for GPTs applications.
 
 这个仓库用于收集GPTs应用的 Rush Rust 的问题和反馈。  
+
+https://chat.openai.com/g/g-S6uhWW9eG-rush-rust
 
 ## FEATURES
 1. It teaches people about rust as if they were playing a game with you.
