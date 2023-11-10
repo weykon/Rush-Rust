@@ -1,10 +1,12 @@
-
+<img src="https://github.com/weykon/Rush-Rust/assets/36456814/772a2fd9-3d8c-4b55-a7a2-23da5c362109" width=500 height=500/>
+[Go to Try !](https://chat.openai.com/g/g-S6uhWW9eG-rush-rust)
+ 
 # Rush-Rust-GPT
 This repository is used to collect issues and feedback on Rush Rust for GPTs applications.
 
 这个仓库用于收集GPTs应用的 Rush Rust 的问题和反馈。  
 
-https://chat.openai.com/g/g-S6uhWW9eG-rush-rust
+
 
 ## FEATURES
 1. It teaches people about rust as if they were playing a game with you.
