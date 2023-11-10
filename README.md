@@ -13,6 +13,7 @@ https://chat.openai.com/g/g-S6uhWW9eG-rush-rust
 4. It can design games and immerse you in them layer by layer
 5. ...(updating)
 
+---
 
 1. 它能够像跟你玩游戏一样教大家去学习rust的知识。
 2. 它会用生活中常见的例子和场景来描述到代码和语言的知识。
