@@ -1,5 +1,6 @@
-<img src="https://github.com/weykon/Rush-Rust/assets/36456814/772a2fd9-3d8c-4b55-a7a2-23da5c362109" width=500 height=500/>
-[Go to Try !](https://chat.openai.com/g/g-S6uhWW9eG-rush-rust)
+<img src="https://github.com/weykon/Rush-Rust/assets/36456814/772a2fd9-3d8c-4b55-a7a2-23da5c362109" width=500 height=500/>  
+
+### **[Go to Try](https://chat.openai.com/g/g-S6uhWW9eG-rush-rust)**
  
 # Rush-Rust-GPT
 This repository is used to collect issues and feedback on Rush Rust for GPTs applications.
